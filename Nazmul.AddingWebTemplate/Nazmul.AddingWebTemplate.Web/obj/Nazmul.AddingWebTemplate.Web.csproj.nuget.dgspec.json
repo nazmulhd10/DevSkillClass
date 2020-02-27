@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotNet\\DevSkill\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj": {}
+    "E:\\DotNet\\DevSkill\\DevSkillTutorial\\DevSkillClass\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj": {}
   },
   "projects": {
-    "E:\\DotNet\\DevSkill\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj": {
+    "E:\\DotNet\\DevSkill\\DevSkillTutorial\\DevSkillClass\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotNet\\DevSkill\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj",
+        "projectUniqueName": "E:\\DotNet\\DevSkill\\DevSkillTutorial\\DevSkillClass\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj",
         "projectName": "Nazmul.AddingWebTemplate.Web",
-        "projectPath": "E:\\DotNet\\DevSkill\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj",
+        "projectPath": "E:\\DotNet\\DevSkill\\DevSkillTutorial\\DevSkillClass\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\Nazmul.AddingWebTemplate.Web.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "E:\\DotNet\\DevSkill\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\obj\\",
+        "outputPath": "E:\\DotNet\\DevSkill\\DevSkillTutorial\\DevSkillClass\\Nazmul.AddingWebTemplate\\Nazmul.AddingWebTemplate.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
