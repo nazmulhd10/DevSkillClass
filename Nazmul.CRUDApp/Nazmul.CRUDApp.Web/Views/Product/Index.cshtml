@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Nazmul.CRUDApp.Web.Models.ProductsInfo>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@*For Display Products*@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var products in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(Model => products.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(Model => products.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(Model => products.Price)
+                </td>
+                <td>
+                    <!--
+                        <a asp-action="Detail" asp-route="@products.Id">Detail</a>
+                    <a asp-action="Edit" asp-route="@products.Id">Edit</a>
+                    <a asp-action="Delete" asp-route="@products.Id">Delete</a>
+                    -->
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

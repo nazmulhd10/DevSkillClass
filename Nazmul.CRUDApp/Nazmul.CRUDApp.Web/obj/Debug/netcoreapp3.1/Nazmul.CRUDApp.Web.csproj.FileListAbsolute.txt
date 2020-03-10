@@ -152,3 +152,4 @@ E:\DotNet\DevSkill\DevSkillClass\Nazmul.CRUDApp\Nazmul.CRUDApp.Web\obj\Debug\net
 E:\DotNet\DevSkill\DevSkillClass\Nazmul.CRUDApp\Nazmul.CRUDApp.Web\obj\Debug\netcoreapp3.1\Nazmul.CRUDApp.Web.Views.pdb
 E:\DotNet\DevSkill\DevSkillClass\Nazmul.CRUDApp\Nazmul.CRUDApp.Web\obj\Debug\netcoreapp3.1\Nazmul.CRUDApp.Web.dll
 E:\DotNet\DevSkill\DevSkillClass\Nazmul.CRUDApp\Nazmul.CRUDApp.Web\obj\Debug\netcoreapp3.1\Nazmul.CRUDApp.Web.pdb
+E:\DotNet\DevSkill\DevSkillClass\Nazmul.CRUDApp\Nazmul.CRUDApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
